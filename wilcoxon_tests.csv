@@ -1,0 +1,17 @@
+Feature,Mutual Information
+exclamation_ratio,0.6735741711325173
+sentiment_polarity,0.4962101074823555
+capital_ratio,0.49167768744178453
+all_caps_word_ratio,0.4506760031043906
+punctuation_density,0.41624017239780153
+sentiment_subjectivity,0.39585572915365597
+rating,0.21297660175574595
+avg_sentence_length,0.1828679582137671
+avg_word_length,0.11201733651949475
+unique_word_ratio,0.10032512196446408
+first_person_ratio,0.0924578100911777
+review_length,0.08557081510802433
+vocab_richness,0.08138373765870766
+repeated_word_ratio,0.07414564838990279
+digit_ratio,0.028041542432709177
+question_ratio,0.015371750973902198
